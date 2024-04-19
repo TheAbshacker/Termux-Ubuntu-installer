@@ -16,4 +16,4 @@ to unistall simply type
 
 
 
-bash Ubuntu-uninstaller.sh
+bash Ubuntu-unistaller.sh
